@@ -37,4 +37,4 @@ Install dependencies:
 `streamlit run app.py`
 
 ## App Screenshot
-![EDA App](screenshots/app_demo.png)
+![EDA App](screenshoot/app_demo.png)
